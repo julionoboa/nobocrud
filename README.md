@@ -5,11 +5,11 @@ This project is a CRUD that allows managing products and sales. It uses Spring B
 ## Database Configuration
 
 Before running the project, make sure to modify the `application.properties` file with the corresponding data for your MySQL database:
-
+```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/nobocrud
 spring.datasource.username=root
 spring.datasource.password=root
-
+```
 
 ## Installation
 
